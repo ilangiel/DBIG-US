@@ -4,6 +4,6 @@
 
 ## Pre-requiriments
 The following software have to get installed:
--scikit-learn
--numpy
--igraph
+- scikit-learn
+- numpy
+- igraph
