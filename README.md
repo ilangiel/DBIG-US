@@ -64,13 +64,7 @@ python dbig_us.py
 3. Prints majority/minority counts before and after each stage.
 4. Saves a side-by-side scatter plot as **`dbig_us_result.png`**.
 
-## 🗂 File Structure
 
-```
-demo_DBIG_US/
-├── dbig_us.py          # Complete implementation + demo
-└── README.md           # This file
-```
 
 ## 📐 Key Functions
 
